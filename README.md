@@ -5,4 +5,4 @@ A CNN-based melanoma detection project, initially a 2022 college minor project, 
 
 Note: 
 1. Tuning learning rate and epochs may improve results.
-2. To run the project, you'll need a kaggle.json file (downloadable from Kaggle).
+2. To run the project, you'll need to convert the second cell to a code cell instead of a markdown and will need to upload a kaggle.json file that can be downloaded from Kaggle.
